@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name universal_lights-rescue)(type Legacy)(uri ${KIPRJMOD}/universal_lights-rescue.lib)(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/libraries/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+)
