@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.0-rc2-unknown-81af2db~65~ubuntu18.04.1*
-G04 #@! TF.CreationDate,2018-05-29T11:42:29+02:00*
+G04 #@! TF.CreationDate,2018-05-29T11:57:16+02:00*
 G04 #@! TF.ProjectId,universal_lights,756E6976657273616C5F6C6967687473,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.0.0-rc2-unknown-81af2db~65~ubuntu18.04.1) date Tue May 29 11:42:29 2018*
+G04 Created by KiCad (PCBNEW 5.0.0-rc2-unknown-81af2db~65~ubuntu18.04.1) date Tue May 29 11:57:16 2018*
 %MOMM*%
 %LPD*%
 G01*
@@ -161,5 +161,14 @@ G04 #@! TD*
 D10*
 G04 #@! TO.C,REF\002A\002A*
 X89500000Y-142500000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.C,R7*
+X59762000Y-137000000D03*
+X58238000Y-137000000D03*
+G04 #@! TD*
+G04 #@! TO.C,C2*
+X54738000Y-138500000D03*
+X56262000Y-138500000D03*
 G04 #@! TD*
 M02*
